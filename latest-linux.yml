@@ -1,0 +1,9 @@
+version: 1.2.2
+files:
+  - url: Waddle.On.Client.Setup.v1.2.2.Linux.Chromebook.AppImage
+    sha512: wPSgVGWHKuJDXnvFHAdgrVLK9rzRJJp/1hlfXy6wTq24ezCmoDaXoJCxqvL/5G1D7JJSaS8kac+J5iamPBFdmw==
+    size: 105370069
+    blockMapSize: 111081
+path: Waddle.On.Client.Setup.v1.2.2.Linux.Chromebook.AppImage
+sha512: wPSgVGWHKuJDXnvFHAdgrVLK9rzRJJp/1hlfXy6wTq24ezCmoDaXoJCxqvL/5G1D7JJSaS8kac+J5iamPBFdmw==
+releaseDate: '2021-02-21T21:58:42.910Z'

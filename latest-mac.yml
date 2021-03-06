@@ -1,0 +1,12 @@
+version: 1.0.0
+files:
+  - url: Waddle.On.Client.Setup.v1.2.2.MacOS.dmg
+    sha512: 2oO1Jqv+wyZgmq/NfReHznlecjIWAWteuQDOja/32bF7Dy9hoLn1ig+uPtsmcLzeIMwtMaC7aqOn3vndyYV3Ng==
+    size: 101416547
+    blockMapSize: 106003
+  - url: Waddle.On.Client.Setup.v1.2.2.MacOS.dmg
+    sha512: H+Ss8e64ShmaHcUWb1nVSHPMQ9xRso91JV65gnnGrn6dFU8h1Coj8W2zJ/1EFaYkJKutKVwupNMOVQxqVZAcfQ==
+    size: 104476834
+path: Waddle.On.Client.Setup.v1.2.2.MacOS.dmg
+sha512: 2oO1Jqv+wyZgmq/NfReHznlecjIWAWteuQDOja/32bF7Dy9hoLn1ig+uPtsmcLzeIMwtMaC7aqOn3vndyYV3Ng==
+releaseDate: '2020-02-26T06:18:06.129Z'
