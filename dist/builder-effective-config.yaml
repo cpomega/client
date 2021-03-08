@@ -1,9 +1,9 @@
 directories:
   output: dist
   buildResources: build
-appId: fun.waddleon.client
-productName: Waddle On Client
+appId: ga.cpome.client
+productName: CPOmega Client
 asar: false
 win:
   publish: github
-electronVersion: 6.1.7
+electronVersion: 6.1.12

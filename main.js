@@ -50,7 +50,6 @@ function createWindow () {
       state: `Waddling around and making new friends`, 
       startTimestamp, 
       largeImageKey: `newlogo`, 
-      #smallImageKey: "", 
     });
   });
   rpc.login({ clientId }).catch(console.error);

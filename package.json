@@ -1,20 +1,20 @@
 {
-  "name": "waddleonclient",
-  "version": "1.2.2",
-  "description": "Desktop client for waddleon.fun",
+  "name": "cpomegaclient",
+  "version": "1.0.0",
+  "description": "Desktop client for cpome.ga",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-builder build --win --publish never",
+    "build": "electron-builder build --win",
     "build-mac": "electron-builder build --mac --publish never",
     "build-linux": "electron-builder build --linux --publish never",
     "appveyor-build": "electron-builder build --win --publish onTagOrDraft"
   },
   "bugs": {
-    "url": "https://github.com/WaddleOn/client/issues"
+    "url": "https://github.com/cpomega/client/issues"
   },
-  "homepage": "https://github.com/WaddleOn/client#readme",
-  "repository": "https://github.com/WaddleOn/client",
+  "homepage": "https://github.com/cpomega/client#readme",
+  "repository": "https://github.com/cpomega/client",
   "author": "Floogal",
   "license": "CC0-1.0",
   "devDependencies": {
@@ -28,8 +28,8 @@
     "electron-updater": "^4.2.0"
   },
   "build": {
-    "appId": "fun.waddleon.client",
-    "productName": "Waddle On Client",
+    "appId": "ga.cpome.client",
+    "productName": "CPOmega Client",
     "asar": "false",
     "win": {
       "publish": "github"
